@@ -1,5 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
+#include <string.h>
 
 void draw(int n);
 
@@ -13,13 +14,13 @@ void draw(int n)
 {
     if (n <= 0)
     return;
-    string t = # * n
 {
     draw (n-1);
 
     for (int i = 0; i < n; i++)
         {
-            printf("t");
+            string t = # * n
+            printf("%s", t);
         }
     }
     printf("\n");
