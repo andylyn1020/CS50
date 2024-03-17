@@ -19,7 +19,7 @@ void draw(int n)
     for (int i = 0; i < n; i++)
 
         {
-            t = 
+            string total = (# * n)
             printf("t");
         }
     }
