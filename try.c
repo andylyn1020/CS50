@@ -19,7 +19,8 @@ void draw(int n)
     for (int i = 0; i < n; i++)
 
         {
-            printf("#")
+            printf("# * %i, n")
         }
     }
+    printf("\n");
 }
