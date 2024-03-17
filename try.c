@@ -19,8 +19,8 @@ void draw(int n)
 
     for (int i = 0; i < n; i++)
         {
-            str t = # * n
-            printf("%s", t);
+            char t[] = {# * n}
+            printf("%c", t);
         }
     }
     printf("\n");
