@@ -1,7 +1,10 @@
 #include <cs50.h>
-#include <studio.h>
+#include <stdio.h>
 
 void swap(int a, int b)
 {
-    int temp = =a
+    int temp = a;
+    a = b;
+    b = temp;
+    return 0
 }
